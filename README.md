@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 I’m currently working on— Enterprise Document AI & intelligent document management solutions<br>🤝 I’m looking to collaborate on— .NET, Azure, AI & Generative AI projects<br>🙋 I’m looking for help with— Building scalable AI-powered enterprise applications<br>🌱 I’m currently learning— Azure AI, Generative AI & Cloud technologies<br>💬Ask me about— C#, .NET, Azure, SQL, AI & Software Testing<br>⚡ Fun fact— I believe every complex problem has a simpler solution waiting to be built.<br>
 
 
